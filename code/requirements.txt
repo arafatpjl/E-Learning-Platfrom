@@ -1,0 +1,12 @@
+Flask
+Flask-SQLAlchemy
+Flask-Migrate
+Flask-WTF
+psycopg2
+python-dotenv
+Werkzeug
+Jinja2
+Flask-Login
+Flask-Bcrypt
+Flask-Bootstrap
+Flask-Babel
